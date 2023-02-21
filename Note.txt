@@ -1,0 +1,9 @@
+pw admin = 123
+pw dokter = 321
+
+Assalamualaikum mas ini project teknikal testnya ada beberapa yang tidak saya buat,
+dikarnakan blm explore karna waktu yang di berikan begitu singkat, ada pemahaman yang saya masih bigung
+seperti kita ingin menambah atau edit data di bagian registrasi karna pada tabel itu memiliki 2 foreign key.
+untuk tampilan tidak maksimal saya buat seadanya.
+Terimakasi dan maaf sebelumnya apa bila ada kekurangan pada pengerjaan saya
+Wassalamualaikum 
